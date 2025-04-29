@@ -22,12 +22,6 @@ I'm a Full-Stack Web Developer with a degree in Software Engineering. Alongside 
 
 #
 
-### 📊 Stats
-
-![Alan Lenz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanLenz&show_icons=true&theme=algolia)
-
-#
-
 <details>
 <summary><h3> My coding journey</h3></summary>
 I began my coding journey in September 2019 as an intern at my cousin’s web development agency — a small operation run out of a room in his house. It was there that I learned the fundamentals of web development, including PHP, JavaScript, HTML, CSS, and MySQL. I also gained invaluable experience with GitHub, client support, prototyping, and working with Kanban workflows.
