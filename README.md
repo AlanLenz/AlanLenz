@@ -19,6 +19,7 @@ I'm a Full-Stack Web Developer with a degree in Software Engineering. Alongside 
 <img align="left" title="CSS 3" alt="CSS 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="max-width: 100%;">
 <img align="left" title="MySQL" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="max-width: 100%;">
 <img align="left" title="PostgreSQL" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="max-width: 100%;">
+<br><br>
 
 ---
 
