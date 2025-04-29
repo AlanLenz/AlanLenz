@@ -20,7 +20,7 @@ I'm a Full-Stack Web Developer with a degree in Software Engineering. Alongside 
 <img align="left" title="MySQL" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="max-width: 100%;">
 <img align="left" title="PostgreSQL" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="max-width: 100%;">
 
-#
+---
 
 <details>
 <summary><h3> My coding journey</h3></summary>
